@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SAnwesh123
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning data science
-- 💞️ I’m looking to collaborate on project on data science
+- 💞️ I’m looking to collaborate on project related to data science
 - 📫 Reach me on Anwesh Sahoo
 
 <!---
